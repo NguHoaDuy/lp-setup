@@ -21,7 +21,7 @@ cd <đường-dẫn-tới-file-ps1>
 
 ```powershell
 .\set_env.ps1
-``
+```
 
 ### Note:
 Chọn "Yes" hoặc "Y" nếu lúc chạy file có yêu cầu. 
